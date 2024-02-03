@@ -1,7 +1,7 @@
 # Snake HTML5
 Snake HTML5 Game Made with Canvas
 
-![screenshot](https://raw.githubusercontent.com/zuramai/snake-html5/main/design/Jakarta_GameBoard_2.png)
+![screenshot](https://github.com/Ramawow/snake/blob/master/design/Jakarta_GameBoard_2.png)
 
 ## Features
 - Player's name
@@ -12,9 +12,9 @@ Snake HTML5 Game Made with Canvas
 ## How to download
 1. Clone Repository
 ```bash
-git clone https://github.com/zuramai/snake-html5.git
+git clone https://github.com/Ramawow/snake.git
 ```
-2. Open `snake-html5/index.html` in your browser
+2. Open `snake/index.html` in your browser
 
 ## Snake.js Example Usage
 ```javascript
